@@ -1,5 +1,5 @@
 # js-developer-pokedex
-- Linguagem de Programação Utilizadas para realizar esse proj:  
+- Linguagem de Programação Utilizadas para realizar esse projeto:  
   <div style="display: inline_block">
     <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
